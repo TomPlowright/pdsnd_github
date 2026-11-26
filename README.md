@@ -54,3 +54,13 @@ The analysis focuses on identifying trends in bike usage, including:
 - Differences in usage between customer types.
 
 These insights help provide a better understanding of how bikeshare services are used.
+
+### Version Control
+
+Git and GitHub are used to manage this project and track changes to the code and documentation.
+
+The project uses separate branches to organise development work:
+- `master` – The main project branch.
+- `documentation` – Used for documentation improvements.
+
+Changes are committed with descriptive messages and pushed to the remote GitHub repository.
