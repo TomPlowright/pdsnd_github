@@ -26,6 +26,10 @@ bikeshare.py – The Python script used to analyse the bikeshare data.
 new_york_city.csv – The New York City bikeshare dataset.
 .gitignore – A file used to prevent the CSV data file from being tracked by Git.
 
+The project uses Python Libraries including Pandas and NumPy to process and analyse the data.
+
+The CSV dataset is excluded from version control to avoid uploading data files unnecessarily
+
 
 ### Credits
 This project was completed as part of the Udacity Programming for Data Science Nanodegree.
