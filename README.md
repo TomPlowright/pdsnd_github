@@ -38,3 +38,8 @@ The original project template was provided by Udacity.
 
 GitHub repository: https://github.com/TomPlowright/pdsnd_github
 
+Project Goals
+The goal of this project is to practise Python programming and data analysis by exploring real-world bikeshare data.
+
+The project also provides an opportunity to develop version control skills using Git and GitHub.
+
