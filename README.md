@@ -43,3 +43,14 @@ The goal of this project is to practise Python programming and data analysis by 
 
 The project also provides an opportunity to develop version control skills using Git and GitHub.
 
+### Analysis Approach
+
+The bikeshare project uses Python to explore and analyse cycling data.
+
+The analysis focuses on identifying trends in bike usage, including:
+- Popular travel times.
+- Trip duration patterns.
+- Frequently used starting and ending stations.
+- Differences in usage between customer types.
+
+These insights help provide a better understanding of how bikeshare services are used.
